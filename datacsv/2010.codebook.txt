@@ -1,0 +1,133 @@
+# Codebook generado desde SPSS
+# Fuente: 2010.sav
+
+## Variables
+- dia_ocu: Dia de ocurrencia
+- mes_ocu: Mes de ocurrencia
+- dia_sem_ocu: Dia de la semana
+- hora_ocu: Hora (24) de ocurrencia
+- depto_ocu: Departamento de ocurrencia
+- areag_ocu: Area geografica de ocurrencia
+- zona_ocu: Zona de ocurrencia
+- sexo_pil: Sexo del piloto
+- edad_pil: Edad del piloto
+- estado_pil: Estado del piloto (normal, ebrio)
+- tipo_v: Tipo de vehiculo
+- color_v: Color del vehiculo
+- modelo_v: Modelo del vehiculo
+- causa_ac: Causa del accidente
+
+## Etiquetas de valores
+[labels0]
+  1.0 = Enero
+  2.0 = Febrero
+  3.0 = Marzo
+  4.0 = Abril
+  5.0 = Mayo
+  6.0 = Junio
+  7.0 = Julio
+  8.0 = Agosto
+  9.0 = Septiembre
+  10.0 = Octubre
+  11.0 = Noviembre
+  12.0 = Diciembre
+
+[labels1]
+  1.0 = Lunes
+  2.0 = Martes
+  3.0 = Miercoles
+  4.0 = Jueves
+  5.0 = Viernes
+  6.0 = Sabado
+  7.0 = Domingo
+  9.0 = Ignorado
+
+[labels2]
+  1.0 = Guatemala
+  2.0 = El Progreso
+  3.0 = Sacatepequez
+  4.0 = Chimaltenango
+  5.0 = Escuintla
+  6.0 = Santa Rosa
+  7.0 = Solola
+  8.0 = Totonicapan
+  9.0 = Quetzaltenango
+  10.0 = Suchitepequez
+  11.0 = Retalhuleu
+  12.0 = San Marcos
+  13.0 = Huehuetenango
+  14.0 = Quiche
+  15.0 = Baja Verapaz
+  16.0 = Alta Verapaz
+  17.0 = Peten
+  18.0 = Izabal
+  19.0 = Zacapa
+  20.0 = Chiquimula
+  21.0 = Jalapa
+  22.0 = Jutiapa
+
+[labels3]
+  1.0 = Urbano
+  2.0 = Rural
+
+[labels4]
+  1.0 = Hombre
+  2.0 = Mujer
+  9.0 = Ignorado
+
+[labels5]
+  1.0 = Normal
+  2.0 = Ebrio
+  9.0 = Ignorado
+
+[labels6]
+  1.0 = Automovil
+  2.0 = Camioneta
+  3.0 = Pick-up
+  4.0 = Motocicleta
+  5.0 = Camion
+  6.0 = Cabezal
+  7.0 = Bus extraurbano
+  8.0 = Jeep
+  9.0 = Microbus
+  10.0 = Taxi
+  11.0 = Panel
+  12.0 = Bus urbano
+  13.0 = Tractor
+  14.0 = Mototaxi
+  15.0 = Furgon
+  16.0 = Grua
+  17.0 = Bus escolar
+  99.0 = Ignorado
+
+[labels7]
+  1.0 = Rojo
+  2.0 = Blanco
+  3.0 = Azul
+  4.0 = Gris
+  5.0 = Negro
+  6.0 = Verde
+  7.0 = Amarillo
+  8.0 = Celeste
+  9.0 = Corinto
+  10.0 = Cafe
+  11.0 = Beige
+  12.0 = Turquesa
+  13.0 = Marfil
+  14.0 = Anaranjado
+  15.0 = Aqua
+  16.0 = Morado
+  17.0 = Rosado
+  99.0 = Ignorado
+
+[labels8]
+  9999.0 = IGNORADO
+
+[labels9]
+  1.0 = Colision
+  2.0 = Choque
+  3.0 = Vuelco
+  4.0 = Caida
+  13.0 = Derrumbe, Deslave, Erupción volcanica
+  99.0 = Ignorado
+

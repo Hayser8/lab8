@@ -1,0 +1,558 @@
+# Codebook generado desde SPSS
+# Fuente: 2013.sav
+
+## Variables
+- num_hecho: Numero de hecho
+- dia_ocu: Día de ocurrencia
+- mes_ocu: Mes de ocurrencia
+- dia_sem_ocu: Dia semana ocurrencia
+- hora_ocu: Hora de ocurrencia
+- g_hora: Grupo de hora
+- depto_ocu: Deparamento de ocurrencia
+- mupio_ocu: Municipio de ocurrencia
+- areag_ocu: Area geografica
+- zona_ocu: Zona de ocurrencia
+- sexo_pil: Sexo del piloto
+- edad_pil: Edad del piloto
+- g_edad_2: Grupo de edad extenso
+- mayor_menor: Mayor o menor
+- tipo_veh: Tipo de vehiculo
+- color_veh: Color de vehiculo
+- modelo_veh: Modelo Vehiculo
+- causa_acc: Causa de accidente
+- marca_veh: Marca de Vehiculo
+- estado_pil: Estado del piloto
+
+## Etiquetas de valores
+[labels0]
+  1.0 = Enero
+  2.0 = Febrero
+  3.0 = Marzo
+  4.0 = Abril
+  5.0 = Mayo
+  6.0 = Junio
+  7.0 = Julio
+  8.0 = Agosto
+  9.0 = Septiembre
+  10.0 = Octubre
+  11.0 = Noviembre
+  12.0 = Diciembre
+
+[labels1]
+  1.0 = Lunes
+  2.0 = Martes
+  3.0 = Miercoles
+  4.0 = Jueves
+  5.0 = Viernes
+  6.0 = Sabado
+  7.0 = Domingo
+
+[labels2]
+  1.0 = 00:00 a 05:59
+  2.0 = 06:00 a 11:59
+  3.0 = 12:00 a 17:59
+  4.0 = 18:00 a 23:59
+
+[labels3]
+  1.0 = Guatemala
+  2.0 = El Progreso
+  3.0 = Sacatepéquez
+  4.0 = Chimaltenango
+  5.0 = Escuintla
+  6.0 = Santa Rosa
+  7.0 = Solola
+  8.0 = Totonicapán
+  9.0 = Quetzaltenango
+  10.0 = Suchitepéquez
+  11.0 = Retalhuleu
+  12.0 = San Marcos
+  13.0 = Huehuetenango
+  14.0 = Quiché
+  15.0 = Baja Verapaz
+  16.0 = Alta Verapaz
+  17.0 = Petén
+  18.0 = Izabal
+  19.0 = Zacapa
+  20.0 = Chiquimula
+  21.0 = Jalapa
+  22.0 = Jutiapa
+
+[labels4]
+  101.0 = Guatemala
+  102.0 = Santa Catarina Pinula
+  103.0 = San José Pinula
+  104.0 = San José del Golfo
+  105.0 = Palencia
+  106.0 = Chinuautla
+  107.0 = San Pedro Ayampuc
+  108.0 = Mixco
+  109.0 = San Pedro Sacatepéquez
+  110.0 = San Juan Sacatepéquez
+  111.0 = San Raimundo
+  112.0 = Chuarrancho
+  113.0 = Fraijanes
+  114.0 = Amatitlán
+  115.0 = Villa Nueva
+  116.0 = Villa Canales
+  117.0 = Petapa
+  201.0 = Guastatoya
+  202.0 = Morazán
+  203.0 = San Agustín Acasagustlán
+  204.0 = San Cristobal Acasaguastlán
+  205.0 = El Jícaro
+  206.0 = Sansare
+  207.0 = Sanarate
+  208.0 = San Antonio la Paz
+  301.0 = Antigua Guatemala
+  302.0 = Jocotenango
+  303.0 = Pastores
+  304.0 = Sumpango
+  305.0 = Santo Domingo Xenacoj
+  306.0 = Santiago Sactepéquez
+  307.0 = San Bartolomé
+  308.0 = San Lucas Sacatepéquez
+  309.0 = Santa Lucia Milpas Altas
+  310.0 = Magdalena Milpas Altas
+  311.0 = Santa María de Jesús
+  312.0 = Ciudad Vieja
+  313.0 = San Miguel Dueñas
+  314.0 = Alotenango
+  315.0 = San Antonio Aguas Calientes
+  316.0 = Santa Catarina Barahona
+  401.0 = Chimaltenango
+  402.0 = San José Poaquil
+  403.0 = San Martín Jilotepeque
+  404.0 = Comalapa
+  405.0 = Santa Apolonia
+  406.0 = Tecpán Guatemala
+  407.0 = Patzún
+  408.0 = Pochuta
+  409.0 = Patzicía
+  410.0 = Santa Cruz Balanyá
+  411.0 = Acatenango
+  412.0 = Yepocapa
+  413.0 = San Andrés Itzapa
+  414.0 = Parramos
+  415.0 = Zaragoza
+  416.0 = El Tejar
+  501.0 = Escuintla
+  502.0 = Santa Lucía Cotzumalguapa
+  503.0 = La Democracia
+  504.0 = Siquinalá
+  505.0 = Masagua
+  506.0 = Tiquizate
+  507.0 = La Gomera
+  508.0 = Guanagazapa
+  509.0 = San José
+  510.0 = Iztapa
+  511.0 = Palín
+  512.0 = San Vicente Pacaya
+  513.0 = Nueva Concepción
+  601.0 = Cuilapa
+  602.0 = Barberena
+  603.0 = Santa Rosa de Lima
+  604.0 = Casillas
+  605.0 = San Rafael Las Flores
+  606.0 = Oratorio
+  607.0 = San Juan Tecuaco
+  608.0 = Chiquimulilla
+  609.0 = Taxisco
+  610.0 = Santa María Ixhuatán
+  611.0 = Guazacapán
+  612.0 = Santa Cruz Naranjo
+  613.0 = Pueblo Nuevo Viñas
+  614.0 = Nueva Santa Rosa
+  701.0 = Sololá
+  702.0 = San José Chacayá
+  703.0 = Santa María Visitación
+  704.0 = Santa Lucia Utatlán
+  705.0 = Nahualá
+  706.0 = Santa Catalina Ixtahuacán
+  707.0 = Santa Clara La Laguna
+  708.0 = Concepción
+  709.0 = San Andres Semetabaj
+  710.0 = Panajachel
+  711.0 = Santa Catarina Palopó
+  712.0 = San Antonio Palopó
+  713.0 = San Lucas Tolimán
+  714.0 = Santa Cruz La Laguna
+  715.0 = San Pablo La Laguna
+  716.0 = San Marcos La Laguna
+  717.0 = San Juan La Laguna
+  718.0 = San Pedro La Laguna
+  719.0 = Santiago Atitlán
+  801.0 = Totonicapán
+  802.0 = San Cristóbal Totonicapán
+  803.0 = San Francisco el Alto
+  804.0 = San Andrés Xecul
+  805.0 = Momostenango
+  806.0 = Santa María Chiquimula
+  807.0 = Santa Lucía la Reforma
+  808.0 = San Bartolo
+  901.0 = Quetzaltenango
+  902.0 = Salcajá
+  903.0 = Olintepeque
+  904.0 = San Carlos Sija
+  905.0 = Sibilia
+  906.0 = Cabricán
+  907.0 = Cajolá
+  908.0 = San Miguel Siguilá
+  909.0 = San Juan Ostuncalco
+  910.0 = San Mateo
+  911.0 = Concepción Chiquirichapa
+  912.0 = San Martín Sacatepéquez
+  913.0 = Almolonga
+  914.0 = Cantel
+  915.0 = Huitán
+  916.0 = Zuníl
+  917.0 = Colomba
+  918.0 = San Francisco la Unión
+  919.0 = El Palmar
+  920.0 = Coatepeque
+  921.0 = Génova
+  922.0 = Flores Costa Cuca
+  923.0 = La Esperanza
+  924.0 = Palestina de los Altos
+  1001.0 = Mazatenango
+  1002.0 = Cuyotenango
+  1003.0 = San Francisco Zapotitlán
+  1004.0 = San Bernardino
+  1005.0 = San José el Idolo
+  1006.0 = Santo Domingo Suchitepéquez
+  1007.0 = San Lorenzo
+  1008.0 = Samayac
+  1009.0 = San Pablo Jocopilas
+  1010.0 = San Antonio Suchitepéquez
+  1011.0 = San Miguel Panán
+  1012.0 = San Gabriel
+  1013.0 = Chicacao
+  1014.0 = Patulul
+  1015.0 = Santa Bárbara
+  1016.0 = San Juan Bautista
+  1017.0 = Santo Tomás la Unión
+  1018.0 = Zunilito
+  1019.0 = Pueblo Nuevo
+  1020.0 = Rio Bravo
+  1101.0 = Retalhuleu
+  1102.0 = San Sebastián
+  1103.0 = Santa Cruz Muluá
+  1104.0 = San Martín Zapotitlán
+  1105.0 = San Felipe
+  1106.0 = San Andrés Villa Seca
+  1107.0 = Champerico
+  1108.0 = Nuevo San Carlos
+  1109.0 = El Asintal
+  1201.0 = San Marcos
+  1202.0 = San Pedro Sacatepéquez
+  1203.0 = San Antonio Sacatepéquez
+  1204.0 = Comitancillo
+  1205.0 = San Miguel Ixtahuacán
+  1206.0 = Concepción Tutuapa
+  1207.0 = Tacaná
+  1208.0 = Sibinal
+  1209.0 = Tajumulco
+  1210.0 = Tejutla
+  1211.0 = San Rafael Pie de La Cuesta
+  1212.0 = Nuevo Progreso
+  1213.0 = El Tumbador
+  1214.0 = El Rodeo
+  1215.0 = Malacatán
+  1216.0 = Catarina
+  1217.0 = Ayutla
+  1218.0 = Ocós
+  1219.0 = San Pablo
+  1220.0 = El Quetzal
+  1221.0 = La Reforma
+  1222.0 = Pajapita
+  1223.0 = Ixchiguán
+  1224.0 = San José Ojetenam
+  1225.0 = San Cristóbal Cucho
+  1226.0 = Sipacapa
+  1227.0 = Esquipulas Palo Gordo
+  1228.0 = Río Blanco
+  1229.0 = San Lorenzo
+  1301.0 = Huehuetenango
+  1302.0 = Chiantla
+  1303.0 = Malacatancito
+  1304.0 = Cuilco
+  1305.0 = Nentón
+  1306.0 = San Pedro Necta
+  1307.0 = Jacaltenango
+  1308.0 = Soloma
+  1309.0 = San Idelfonso Ixtahuacán
+  1310.0 = Santa Bárbara
+  1311.0 = La Libertad
+  1312.0 = La Democracia
+  1313.0 = San Miguel Acatán
+  1314.0 = San Rafael la Independencia
+  1315.0 = Todos Santos Cuchumatán
+  1316.0 = San Juan Atitán
+  1317.0 = Santa Eulalia
+  1318.0 = San Mateo Ixtatán
+  1319.0 = Colotenango
+  1320.0 = San Sebastián Huehuetenango
+  1321.0 = Tectitán
+  1322.0 = Concepción
+  1323.0 = San Juan Ixcoy
+  1324.0 = San Antonio Huista
+  1325.0 = San Sebastián Coatán
+  1326.0 = Santa Cruz Barillas
+  1327.0 = Aguacatán
+  1328.0 = San Rafael Petzal
+  1329.0 = San Gaspar Ixchil
+  1330.0 = Santiago Chimaltenanango
+  1331.0 = Santa Ana Huista
+  1332.0 = Unión Cantinil
+  1401.0 = Santa Cruz del Quiché
+  1402.0 = Chiché
+  1403.0 = Chinique
+  1404.0 = Zacualpa
+  1405.0 = Chajul
+  1406.0 = Chichicastenango
+  1407.0 = Patzité
+  1408.0 = San Antonio Ilotenango
+  1409.0 = San Pedro Jocopilas
+  1410.0 = Cunén
+  1411.0 = San Juan Cotzal
+  1412.0 = Joyabaj
+  1413.0 = Nebaj
+  1414.0 = San Andrés Sajcabajá
+  1415.0 = Uspantán
+  1416.0 = Sacapulas
+  1417.0 = San Bartolomé Jocotenango
+  1418.0 = Canillá
+  1419.0 = Chicamán
+  1420.0 = Ixcán
+  1421.0 = Pachalum
+  1501.0 = Salamá
+  1502.0 = San Miguel Chicaj
+  1503.0 = Rabinal
+  1504.0 = Cubulco
+  1505.0 = Granados
+  1506.0 = El Chol
+  1507.0 = San Jerónimo
+  1508.0 = Purulhá
+  1601.0 = Cobán
+  1602.0 = Santa Cruz Verapaz
+  1603.0 = San Cristóbal Verapaz
+  1604.0 = Tactic
+  1605.0 = Tamahú
+  1606.0 = Tucurú
+  1607.0 = Panzós
+  1608.0 = Senahú
+  1609.0 = San Pedro Carchá
+  1610.0 = San Juan Chamelco
+  1611.0 = Lanquín
+  1612.0 = Cahabón
+  1613.0 = Chisec
+  1614.0 = Chahal
+  1615.0 = Fray Bartolomé de Las Casas
+  1616.0 = Santa Catalina La Tinta
+  1617.0 = Raxruhá
+  1701.0 = Flores
+  1702.0 = San José
+  1703.0 = San Benito
+  1704.0 = San Andrés
+  1705.0 = La Libertad
+  1706.0 = San Francisco
+  1707.0 = Santa Ana
+  1708.0 = Dolores
+  1709.0 = San Luis
+  1710.0 = Sayaxché
+  1711.0 = Melchor de Mencos
+  1712.0 = Poptún
+  1713.0 = Las Cruces
+  1801.0 = Puerto Barrios
+  1802.0 = Livingston
+  1803.0 = El Estor
+  1804.0 = Morales
+  1805.0 = Los Amates
+  1901.0 = Zacapa
+  1902.0 = Estanzuela
+  1903.0 = Río Hondo
+  1904.0 = Gualán
+  1905.0 = Teculután
+  1906.0 = Usumatlán
+  1907.0 = Cabañas
+  1908.0 = San Diego
+  1909.0 = La Unión
+  1910.0 = Huité
+  2001.0 = Chiquimula
+  2002.0 = San José La Arada
+  2003.0 = San Juan Ermita
+  2004.0 = Jocotán
+  2005.0 = Camotán
+  2006.0 = Olopa
+  2007.0 = Esquipulas
+  2008.0 = Concepción Las Minas
+  2009.0 = Quetzaltepeque
+  2010.0 = San Jacinto
+  2011.0 = Ipala
+  2101.0 = Jalapa
+  2102.0 = San Pedro Pinula
+  2103.0 = San Luis Jilotepeque
+  2104.0 = San Manuel Chaparrón
+  2105.0 = San Carlos Alzatate
+  2106.0 = Monjas
+  2107.0 = Mataquescuintla
+  2201.0 = Jutiapa
+  2202.0 = El Progreso
+  2203.0 = Santa Catarina Mita
+  2204.0 = Agua Blanca
+  2205.0 = Asunción Mita
+  2206.0 = Yupiltepeque
+  2207.0 = Atescatempa
+  2208.0 = Jerez
+  2209.0 = El Adelanto
+  2210.0 = Zapotitlán
+  2211.0 = Comapa
+  2212.0 = Jalpatagua
+  2213.0 = Conguaco
+  2214.0 = Moyuta
+  2215.0 = Pasaco
+  2216.0 = San José Acatempa
+  2217.0 = Quesada
+
+[labels5]
+  1.0 = Urbano
+  2.0 = Rural
+
+[labels6]
+  99.0 = Ignorado
+
+[labels7]
+  1.0 = Hombre
+  2.0 = Mujer
+  9.0 = Ignorado
+
+[labels8]
+  999.0 = Ignorado
+
+[labels9]
+  1.0 = Menor de 15
+  2.0 = 15-19
+  3.0 = 20-24
+  4.0 = 25-29
+  5.0 = 30-34
+  6.0 = 35-39
+  7.0 = 40-44
+  8.0 = 45-49
+  9.0 = 50-54
+  10.0 = 55-59
+  11.0 = 60 y mas
+  12.0 = Ignorado
+
+[labels10]
+  1.0 = Mayor
+  2.0 = Menor
+  9.0 = Ignorado
+
+[labels11]
+  1.0 = Automovil
+  2.0 = Camioneta
+  3.0 = Pick up
+  4.0 = Motocicleta
+  5.0 = Camión
+  6.0 = Cabezal
+  7.0 = Bus extraurbano
+  8.0 = Jeep
+  9.0 = Microbus
+  10.0 = Taxi
+  11.0 = Panel
+  12.0 = Bus urbano
+  13.0 = Tractor
+  14.0 = Mototaxi
+  15.0 = Furgon
+  16.0 = Grua
+  17.0 = Bus escolar
+  18.0 = Bicicleta
+  99.0 = Ignorado
+
+[labels12]
+  1.0 = Rojo
+  2.0 = Blanco
+  3.0 = Azul
+  4.0 = Gris
+  5.0 = Negro
+  6.0 = Verde
+  7.0 = Amarillo
+  8.0 = Celeste
+  9.0 = Corinto
+  10.0 = Café
+  11.0 = Beige
+  12.0 = Turqueza
+  13.0 = Marfil
+  14.0 = Anaranjado
+  15.0 = Acua
+  16.0 = Morado
+  17.0 = Rosado
+  99.0 = Ignorado
+
+[labels13]
+  9999.0 = IGNORADO
+
+[labels14]
+  1.0 = Colisión
+  2.0 = Choque
+  3.0 = Vuelco
+  4.0 = Caida
+  5.0 = Atropellado
+  99.0 = Ignorado
+
+[labels15]
+  1.0 = Audi
+  2.0 = Bajaj
+  3.0 = Blue bird
+  4.0 = Bmw
+  5.0 = Chevrolet
+  6.0 = Chevy
+  7.0 = Chrysler
+  8.0 = Daewoo
+  9.0 = Datsun
+  10.0 = Dodge
+  11.0 = Dodge
+  12.0 = Fiat
+  13.0 = Ford
+  14.0 = Freedom
+  15.0 = Freightliner
+  16.0 = Nissan
+  17.0 = Geo
+  18.0 = Gmc
+  19.0 = Hino
+  20.0 = Hyundai
+  21.0 = Honda
+  22.0 = International
+  23.0 = Isuzu
+  24.0 = Italika
+  25.0 = Jaguar
+  26.0 = Jeep
+  27.0 = John Deere
+  28.0 = Kawasaki
+  29.0 = Kenworth
+  30.0 = Kia
+  31.0 = Kymco
+  32.0 = Mazda
+  33.0 = Mercedes benz
+  34.0 = Mitsubishi
+  35.0 = Motolansa
+  36.0 = Movesa
+  37.0 = Nissan
+  38.0 = Peugeot
+  39.0 = Plymouth
+  40.0 = Sniper
+  41.0 = Subaru
+  42.0 = Suzuki
+  43.0 = Sym
+  44.0 = Toyota
+  45.0 = Tvs
+  46.0 = Volkwagen
+  47.0 = Volvo
+  48.0 = Wuling
+  49.0 = Wuyang
+  99.0 = Ignorado
+
+[labels16]
+  1.0 = Normal
+  2.0 = Ebrio
+  9.0 = Ignorado
+

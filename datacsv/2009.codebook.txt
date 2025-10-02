@@ -1,0 +1,150 @@
+# Codebook generado desde SPSS
+# Fuente: 2009.sav
+
+## Variables
+- num_hecho: Numero de hecho
+- dia_ocu: Día de ocurrencia
+- mes_ocu: Mes de ocurrencia
+- año_ocu: Año de ocurrencia
+- dia_sem_ocu: Día de la semana
+- hora_ocu: Hora de ocurrencia
+- depto_ocu: Departamento de ocurrencia
+- areag_ocu: Area geográfica de ocurrencia
+- sexo_pil: Sexo del piloto
+- edad_pil: Edad del piloto
+- g_edad_pil: Grupo de edad piloto
+- estado_pil: Estado del piloto
+- tipo_vehi: Tipo de vehículo
+- color_vehi: Color de vehiculo
+- modelo_vehi: Modelo de vehiculo
+- causa_acc: Causa de accidente
+
+## Etiquetas de valores
+[labels0]
+  1.0 = Enero
+  2.0 = Febrero
+  3.0 = Marzo
+  4.0 = Abril
+  5.0 = Mayo
+  6.0 = Junio
+  7.0 = Julio
+  8.0 = Agosto
+  9.0 = Septiembre
+  10.0 = Octubre
+  11.0 = Noviembre
+  12.0 = Diciembre
+
+[labels1]
+  1.0 = Lunes
+  2.0 = Martes
+  3.0 = Miercoles
+  4.0 = Jueves
+  5.0 = Viernes
+  6.0 = Sabado
+  7.0 = Domingo
+
+[labels2]
+  1.0 = Guatemala
+  2.0 = El Progreso
+  3.0 = Sacatepequez
+  4.0 = Chimaltenango
+  5.0 = Escuintla
+  6.0 = Santa Rosa
+  7.0 = Solola
+  8.0 = Totonicapan
+  9.0 = Quetzaltenango
+  10.0 = Suchitepequez
+  11.0 = Retalhuleu
+  12.0 = San Marcos
+  13.0 = Huehuetenango
+  14.0 = Quiche
+  15.0 = Baja Verapaz
+  16.0 = Alta Verpaz
+  17.0 = Peten
+  18.0 = Izabal
+  19.0 = Zacapa
+  20.0 = Chiquimula
+  21.0 = Jalapa
+  22.0 = Jutiapa
+
+[labels3]
+  1.0 = Urbano
+  2.0 = Rural
+
+[labels4]
+  1.0 = Hombre
+  2.0 = Mujer
+  9.0 = Ignorado
+
+[labels5]
+  999.0 = Ignorado
+
+[labels6]
+  1.0 = Menos de 15
+  2.0 = 15-19
+  3.0 = 20-24
+  4.0 = 25-29
+  5.0 = 30-34
+  6.0 = 35-39
+  7.0 = 40-44
+  8.0 = 45-49
+  9.0 = 50-54
+  10.0 = 55 y más
+  99.0 = Ignorado
+
+[labels7]
+  1.0 = Normal
+  2.0 = Ebrio
+  9.0 = Ignorado
+
+[labels8]
+  1.0 = Automovil
+  2.0 = Camioneta
+  3.0 = Pick up
+  4.0 = Motocicleta
+  5.0 = Camión
+  6.0 = Cabezal
+  7.0 = Bus extraurbano
+  8.0 = Jeep
+  9.0 = Microbus
+  10.0 = Taxi
+  11.0 = Panel
+  12.0 = Bus urbano
+  13.0 = Tractor
+  14.0 = Mototaxi
+  15.0 = Furgon
+  16.0 = Grua
+  17.0 = Bus escolar
+  18.0 = Bicicleta
+  99.0 = Ignorado
+
+[labels9]
+  1.0 = Rojo
+  2.0 = Blanco
+  3.0 = Azul
+  4.0 = Gris
+  5.0 = Negro
+  6.0 = Verde
+  7.0 = Amarillo
+  8.0 = Celeste
+  9.0 = Corinto
+  10.0 = Café
+  11.0 = Beige
+  12.0 = Turqueza
+  13.0 = Marfil
+  14.0 = Anaranjado
+  15.0 = Acua
+  16.0 = Morado
+  17.0 = Rosado
+  99.0 = Ignorado
+
+[labels10]
+  9999.0 = Ignorado
+
+[labels11]
+  1.0 = Colisión
+  2.0 = Empotro
+  3.0 = Volco
+  4.0 = Caida
+  99.0 = Ignorado
+
